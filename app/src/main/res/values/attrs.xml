@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingView">
+
+        <attr name="ball_color" format="color"></attr>
+        <attr name="line_color" format="color"></attr>
+        <attr name="line_width" format="dimension"></attr>
+        <attr name="stroke_width" format="dimension"></attr>
+        <attr name="ball_radius" format="dimension"></attr>
+        <attr name="max_down" format="dimension"></attr>
+        <attr name="max_up" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
